@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeniezer Kifle</h1>
 <h3 align="center">An Experienced Mobile developer from Ethiopia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebenezerkifle" alt="ebenezerkifle" /></a> </p>
-
-- 🔭 I’m currently working on **Mall Et**
+- 🔭 I’m currently working on **Mall Et Which is a Mobile app being developed on Flutter**
 
 - 💬 Ask me about **Flutter and Java**
 
