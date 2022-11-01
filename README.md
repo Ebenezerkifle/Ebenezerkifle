@@ -33,7 +33,7 @@ My Name is Abeniezer Kifle and I'm Mobile developer on Flutter.
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
-[6]: http://https://github.com/Ebenezerkifle
+[6]: http://github.com/Ebenezerkifle
 
 <!--
 **Ebenezerkifle/Ebenezerkifle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
