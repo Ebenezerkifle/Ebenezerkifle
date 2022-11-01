@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abeniezer Kifle</h1>
 <h3 align="center">An Experienced Mobile developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebenezerkifle" alt="ebenezerkifle" /></a> </p>
 
 - 🔭 I’m currently working on **Mall Et**
@@ -13,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/ebenezer-kifle-b0712519a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ebenezer-kifle-b0712519a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abeniezer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abeniezer/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ebenezer-kifle-b0712519a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebenezer-kifle-b0712519a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abeniezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abeniezer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
