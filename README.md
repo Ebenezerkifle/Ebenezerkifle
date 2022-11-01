@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abeniezer Kifle</h1>
 <h3 align="center">An Experienced Mobile developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Mall Et Which is a Mobile app being developed on Flutter**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
+
+- 🔭 I’m currently working on **Mall Et Which is A mobile app for an easy building access.**
 
 - 💬 Ask me about **Flutter and Java**
 
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ebenezer-kifle-b0712519a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebenezer-kifle-b0712519a" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ebenikifle123?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebenikifle123?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abeniezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abeniezer" height="30" width="40" /></a>
 </p>
 
@@ -19,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenezerkifle&show_icons=true&locale=en&layout=compact" alt="ebenezerkifle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebenezerkifle&show_icons=true&locale=en" alt="ebenezerkifle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerkifle&" alt="ebenezerkifle" /></p>
