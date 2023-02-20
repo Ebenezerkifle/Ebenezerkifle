@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
 
-- 🔭 I’m currently working on **Mall Et Which is A mobile app for an easy building access.**
+- 🔭 I’m currently working on **Apostolic Songs Music Player App**
 
 - 💬 Ask me about **Flutter and Java**
 
