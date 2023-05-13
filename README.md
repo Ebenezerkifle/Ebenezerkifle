@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ebenikifle123@gmail.com**
 
-- <a href="https://play.google.com/store/search?q=apostolic%20songs&c=apps&hl=en&gl=US"Apostolic Songs</a>
+- <a href="https://play.google.com/store/search?q=apostolic%20songs&c=apps&hl=en&gl=US">Apostolic Songs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
