@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
 
-- 🔭 I’m currently working on **Sales App**
+- 🔭 I’m currently working on **Delivery App & E-Learning App**
 
 - 💬 Ask me about **Flutter and Java**
 
