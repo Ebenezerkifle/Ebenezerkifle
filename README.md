@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ebenikifle123@gmail.com**
 
-- My Work which are Live:
+- My Works which are Live:
          **<a href="https://play.google.com/store/search?q=apostolic%20songs&c=apps&hl=en&gl=US">Apostolic Songs</a>** |
          **<a href="https://play.google.com/store/apps/details?id=com.e_learning.icon_scholar_academy&hl=en&gl=US">Icon Scholar Academy</a>** |
          **<a href="https://play.google.com/store/search?q=Dasesa&c=apps">Dasesa</a>** |
