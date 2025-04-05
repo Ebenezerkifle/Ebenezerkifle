@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
 
-- 🔭 I’m currently working on **Delivery App & E-Learning App**
+- 🔭 I’m currently working on **E-Learning, Music String and Survey Apps**
 
-- 💬 Ask me about **Flutter and Java**
+- 💬 Ask me about **Flutter and Node.js**
 
 - 📫 How to reach me **ebenikifle123@gmail.com**
 
