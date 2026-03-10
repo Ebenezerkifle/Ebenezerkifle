@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter and Node.js**
 
-- 🕸️ My website: **https://abeniezerkifle.com**
+- 🕸️ My website: **www.abeniezerkifle.com**
 
 - 📫 How to reach me **ebenikifle123@gmail.com**
 
