@@ -3,17 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezerkifle&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerkifle" /> </p>
 
-- 🔭 I’m currently working on **E-Learning and Survey Apps**
+- 🔭 I’m currently Focused on **Building Impactful digital products**
 
 - 💬 Ask me about **Flutter and Node.js**
+
+- 🕸️ My website: **https://abeniezerkifle.com**
 
 - 📫 How to reach me **ebenikifle123@gmail.com**
 
 - My Works which are Live:
          **<a href="https://play.google.com/store/search?q=apostolic%20songs&c=apps&hl=en&gl=US">Apostolic Songs</a>** |
     **<a href="https://play.google.com/store/apps/details?id=com.idealogic.hasset">Hasset</a>** |
-    **<a href="https://play.google.com/store/search?q=Dasesa&c=apps">Dasesa</a>** |
-         **<a href="https://abeniezerkifle.com">My Website</a>** 
+    **<a href="https://play.google.com/store/search?q=Dasesa&c=apps">Dasesa</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
